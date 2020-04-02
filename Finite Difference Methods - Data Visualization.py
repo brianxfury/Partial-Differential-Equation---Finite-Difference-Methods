@@ -28,4 +28,4 @@ ax.plot(x[1:-1], u, 'ks')
 ax.set_xlim(0, 1)
 ax.set_xlabel(r"$x$", fontsize=18)
 ax.set_ylabel(r"$u(x)$", fontsize=18)
-# Plot of Solution to the second-order ODE boundary value problem
+# Output and Plotting of Solution to the second-order ODE boundary value problem
